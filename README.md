@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# and JavaScript
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on C#
-- 📫 How to reach me vitor.ochoa@sequor.com.br
+- 📫 How to reach me vitorochoa12@gmail.com
 
 <!---
 Ochoalog/Ochoalog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
