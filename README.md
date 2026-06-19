@@ -1,40 +1,22 @@
-# Vitor Ochoa
+# Welcome! 👋
+## I'm Vitor Ochoa! Let me tell you a little about myself 🚀
 
-<div align="center">
+Backend Software Engineer specialized in .NET, Distributed Systems and Event-Driven Architecture.
 
-Software Engineer | M.Sc. Student in Computer Science | Control & Automation Engineer
-
-[LinkedIn](https://www.linkedin.com/in/vitor-ochoa/) • [GitHub](https://github.com/Ochoalog)
-
-</div>
-
----
-
-## About
-
-Software Engineer with experience designing and developing distributed, event-driven systems operating at large scale.
-
-Currently working on backend engineering, cloud-native architectures, messaging systems, and observability solutions. My experience includes building mission-critical platforms in the payments and financial sectors, processing millions of events daily using technologies such as .NET, Kafka, RabbitMQ, Redis, and cloud services.
-
-I am also pursuing a Master's degree in Computer Science and researching Industry 4.0, Manufacturing Execution Systems (MES), Artificial Intelligence, and Industrial IoT.
+🎓 M.Sc. Student in Computer Science at UFRGS  
+🎓 Bachelor's Degree in Control and Automation Engineering  
+⚡ Passionate about scalable systems, cloud computing, AI, Industrial IoT and Software Architecture
 
 ---
 
-## GitHub Statistics
+## Connect with Me
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ochoalog&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ochoalog&layout=compact" />
-</p>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/SEU_USUARIO)
 
----
-
-## Contact
-
-- LinkedIn: https://linkedin.com/in/seuperfil
-- Email: vitorochoa12@email.com
-- GitHub: https://github.com/Ochoalog
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-ochoa/)
 
 ---
 
-> Building scalable software, industrial solutions, and AI-powered systems.
+⭐ Always interested in discussing Software Engineering, Distributed Systems, AI and Technology.
+
+Thanks for visiting! 🚀
